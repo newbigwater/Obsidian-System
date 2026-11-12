@@ -1,0 +1,9 @@
+{
+  "normalizeTitles": true,
+  "autoAppendImageWidth": true,
+  "imageWidthSuffix": "650",
+  "copyEmbeddedAssets": true,
+  "assetMirrorFolder": "_assets",
+  "dryRunNoticeLimit": 5,
+  "verboseLogging": false
+}

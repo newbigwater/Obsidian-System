@@ -1,0 +1,10 @@
+{
+	"id": "update-relative-links-Renewal",
+	"name": "update-relative-links-Renewal",
+	"version": "1.0.5",
+	"minAppVersion": "1.0.5",
+	"description": "Update relative links Renewal.",
+	"author": "NBe",
+	"authorUrl": "https://github.com/val3344/obsidian-update-relative-links",
+	"isDesktopOnly": false
+}
